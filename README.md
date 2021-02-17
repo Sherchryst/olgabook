@@ -1,6 +1,6 @@
 # olgabook
 
-Olgabook is a simple todo list app and also my Valentine's day présent for my GF.
+Olgabook is a simple todo list app and also a Valentine's day présent for my GF.
 
 ## Getting Started
 
