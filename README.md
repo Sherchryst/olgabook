@@ -1,6 +1,6 @@
 # olgabook
 
-A new Flutter project.
+Olgabook is a simple todo list app and also my Valentine's day présent for my GF.
 
 ## Getting Started
 
